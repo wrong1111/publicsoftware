@@ -1,0 +1,67 @@
+{
+	"code": 0,
+	"msg": "操作成功",
+	"data": {
+		"problemUrl": "https://zphwie76gp.feishu.cn/drive/folder/fldcnBEgy4xI9wLtE1f2BUwrlGh",
+		"products": {
+			"19": [
+				{
+					"id": 96,
+					"product_id": 19,
+					"version_name": "Office 2021",
+					"version_code": "2021",
+					"money": 9900,
+					"present": "2021版本",
+					"plateform": "windows平台",
+					"name": "Office",
+					"picUrl": "https://shop.softsc.cn/Public/UserM/images/2021.jpg",
+					"tag": "local",
+					"qmoney": 0
+				},
+				{
+					"id": 97,
+					"product_id": 19,
+					"version_name": "Office 2019",
+					"version_code": "2019",
+					"money": 9900,
+					"present": "2019版本",
+					"plateform": "windows平台",
+					"name": "Office",
+					"picUrl": "https://shop.softsc.cn/Public/UserM/images/2019.jpg",
+					"tag": "local",
+					"qmoney": 0
+				}
+			],
+			"23": [
+				{
+					"id": 98,
+					"product_id": 23,
+					"version_name": "office 微软账户版",
+					"version_code": "微软账户版",
+					"money": 36500,
+					"present": "微软账户版",
+					"plateform": "windows平台",
+					"name": "office",
+					"picUrl": "https://shop.softsc.cn/Public/UserM/images/365.jpg",
+					"tag": "micsoft",
+					"qmoney": 0
+				}
+			],
+			"27": [
+				{
+					"id": 95,
+					"product_id": 27,
+					"version_name": "office 365永久版",
+					"version_code": "365永久版",
+					"money": 36500,
+					"present": "365永久版",
+					"plateform": "windows平台",
+					"name": "office",
+					"picUrl": "https://shop.softsc.cn/Public/UserM/images/365.jpg",
+					"tag": "365",
+					"qmoney": 0
+				}
+			]
+		}
+	}
+}
